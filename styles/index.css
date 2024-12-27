@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#nav-cont{
+    background-color: blueviolet;
+    padding: 2rem;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+#logo{
+    color: white;
+    text-decoration: none;
+}
+#nav-links>a{
+    color:white;
+    text-decoration: none;
+    margin: 1rem;
+
+}
+#footer{
+    background-color: blueviolet;
+    padding: 2rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+#main{
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    color: blueviolet;
+
+}
+#form{
+    border:  1px solid black;
+    width: 50%;
+    margin: 4rem 15rem;
+    height: 10rem;
+
+}
